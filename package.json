@@ -1,0 +1,20 @@
+{
+    "name": "formatter",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "css": "node-sass css/style.scss css/style.min.css --output-style compressed -w"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rohangaikwad/formatter.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/rohangaikwad/formatter/issues"
+    },
+    "homepage": "https://github.com/rohangaikwad/formatter#readme"
+}
